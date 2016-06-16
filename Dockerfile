@@ -1,7 +1,7 @@
 
 FROM ubuntu:14.04
 
-MAINTAINER Chernova Ekaterina
+MAINTAINER Chernova E
 
 RUN apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys B97B0AFCAA1A47F044F244A07FCC7D46ACCC4CF8
 
